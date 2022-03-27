@@ -1,0 +1,18 @@
+programa {
+    
+	funcao inicio() {
+	    
+	    escreva("Hello World - Olá Mundo - Olá Galera")
+		
+	}
+	
+}
+
+
+	programa {
+	funcao inicio() {
+	    
+		escreva('hello, world!')
+	}
+}
+
