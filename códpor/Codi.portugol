@@ -1,0 +1,34 @@
+Programa
+{
+	funcao inicio() {
+		
+		inteiro numero1, resultado
+		
+		escreva("Informe um numero: \n")
+		leia(numero1)
+		
+		resultado = numero1 * 2
+		
+		escreva("O resultado é: ", resultado)
+	}
+}
+		leia(numero1)
+		
+		resultado = numero1 * 2
+		
+		escreva("O resultado é: ", resultado)
+	}
+}
+
+programa 
+	funcao inicio() {
+		cadeia nome
+		
+		escreva("Qual e o seu nome? ")
+		leia(nome)
+		
+	    escreva("Seu nome é: " + nome, "\n")
+	    
+	    escreva("Somo todos TransformaTec")
+	}
+}
